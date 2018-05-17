@@ -1,7 +1,7 @@
 # How To Make Tacos
 <p1> Making tacos is simple and fun and only requires a few ingredients <p1>
 
-<p1> Using the following ingredients you can make delicious tacos in a minutes <p>
+<p1> Using the following ingredients you can make delicious tacos in a minutes: <p>
 <ul>
   <li>Taco Shell</li>
   <li>Lettuce</li>
@@ -22,3 +22,4 @@
 </ol>
   
   <p><b> Enjoy delicious tacos you've created!</b></p>
+
