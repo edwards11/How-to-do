@@ -12,7 +12,7 @@
   <li>Sour Cream (optional> </li>
 </ul>
 
-<p><u><b> Procedure </b></u></p>
+<p><b> Procedure </b></p>
 <ol type="1">
   <li>Cook beef in 10-inch skillet over medium heat 8 to 10 minutes, stirring occasionally, until brown; drain. </li>
   <p> </p>
