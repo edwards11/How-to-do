@@ -9,7 +9,7 @@
   <li>Filling (usually ground beef, but can be anything)</li>
   <li>Salsa</li>
   <li>Chopped Tomatoes</li>
-  <li>Sour Cream (optional> </li>
+  <li>Sour Cream (optional) </li>
 </ul>
 
 <p><b> Procedure </b></p>
